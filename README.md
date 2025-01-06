@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in Dapps where the displayed balance is intermittently incorrect. The bug is due to asynchronous operations and race conditions. The solution demonstrates how to handle asynchronous operations correctly.
